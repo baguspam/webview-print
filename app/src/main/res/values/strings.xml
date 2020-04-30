@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SatuPay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_print">Print</string>
+    <string name="home">Depan</string>
+    <string name="product">Produk</string>
+    <string name="information">Informasi</string>
+    <string name="transaction">Transaksi</string>
+    <string name="promo">Promo</string>
+    <string name="faq"><![CDATA[Terms & Faq]]></string>
+    <string name="question">Tanya Jawab</string>
+    <string name="help">Bantuan</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="menu">Menu</string>
+    <string name="action_share">Share</string>
+    <string name="text_no_internet">No internet connection found,\nCheck your connection or try again.</string>
+    <string name="text_whoops">Whoops!!!</string>
+</resources>
